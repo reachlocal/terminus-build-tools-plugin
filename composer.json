@@ -1,5 +1,5 @@
 {
-    "name": "pantheon-systems/terminus-build-tools-plugin",
+    "name": "reachlocal/rl-terminus-build-tools",
     "description": "Build Tools - A Terminus plugin that contain commands to manage build assets on Pantheon.",
     "license": "MIT",
     "type": "terminus-plugin",
@@ -15,9 +15,9 @@
         "phpunit/phpunit": "^4.8.36",
         "doctrine/instantiator": "1.0.5",
         "phpdocumentor/reflection-docblock": "3.2.2",
-        "symfony/polyfill-ctype": "v1.11.0",
-        "symfony/yaml": "v3.4.26",
-        "webmozart/assert": "1.4.0",
+        "symfony/polyfill-ctype": "v1.13.1",
+        "symfony/yaml": "v3.4.36",
+        "webmozart/assert": "1.6.0",
         "phpspec/prophecy": "1.10.1"
     },
     "scripts": {
